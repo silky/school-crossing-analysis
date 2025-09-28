@@ -25,6 +25,9 @@ You then need to enter the "dev shell" by running `nix develop` (or use
 [direnv](https://direnv.net/) which will then have you enter the shell
 automatically on entering the folder.)
 
+If you're looking for a simple tutorial on Nix, consider: [Nix
+Workshop](https://sdsc-ordes.github.io/technical-presentation/gh-pages/nix-workshop/part-1/#/title-slide)
+
 ### 1. Work in the `data` directory
 
 ```sh
