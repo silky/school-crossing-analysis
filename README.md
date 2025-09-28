@@ -45,7 +45,7 @@ docker run \
   -d /download
 ```
 
-### 3. Filter down to Scotland
+### 3. Filter down to Edinburgh
 
 ```sh
 wget https://raw.githubusercontent.com/JamesChevalier/cities/refs/heads/master/united_kingdom/scotland/city-of-edinburgh_scotland.poly
